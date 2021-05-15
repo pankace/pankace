@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<--
--pankace/pankace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ pankace ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on my resume website and a compiler to write in bacterial logic
 - 🌱 I’m currently learning Assembly Reverserse enginnering and Python scripting 
