@@ -13,12 +13,6 @@
 
 <h1>The world really needs moor qt cat photos</h1>
 
-##
-##
-##
-##
-##
-##
 ## :robot: Technologies I am in a Love Hate relationship with 
 * Machine Learning
 * Backend stuff
