@@ -74,7 +74,7 @@
 ## Current Projects 
 * I'm working on simulating microbial logic gates on an fpaa device as a proof of concept for the creation of microbial logic gates irl 
 * I'm working on some fun democracy projects 
-* I'm working on stuff for the government 
+* I'm working on stuff for the government :( 
 * I'm working on creating a Hacker Community in Thailand and fostering the next generation of hackers in SEA
   <h5>and many other projects :)</h5> 
 
