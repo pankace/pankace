@@ -12,7 +12,7 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. ~Pusheen </div>
 
 <h1>The world really needs moor qt cat photos</h1>
-
+ 
 ## :robot: Technologies I am in a Love Hate relationship with 
 * Machine Learning
 * Backend stuff
