@@ -15,6 +15,7 @@
  
 ## :robot: Technologies I am in a Love-Hate relationship with     
 * Machine Learning
+* Reverse Engineering 
 * Backend stuff
 * Scripting 
 * Microprocessors 
