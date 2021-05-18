@@ -14,7 +14,7 @@
 <h1>The world really needs moarrr qt cat photos</h1><br></p>
 
 
-## :robot: Technologies I am in a Love-Hate relationship with     
+<br></p> ## :robot: Technologies I am in a Love-Hate relationship with     
 * Machine Learning
 * Reverse Engineering 
 * Backend stuff
