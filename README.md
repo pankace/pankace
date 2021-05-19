@@ -63,7 +63,7 @@ class WhoAmI:
 
 	def Ambitions():
 		LearnGerman()
-        LearnRussian()
+        	LearnRussian()
 		CreateSkyNet()
 		FinisMyjob()
 		#api to more ambition here #████████░░ 80%
