@@ -23,7 +23,7 @@
 
 ## :snake: Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankace&cout_private&theme=gruvbox&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankace&cout_private&theme=gruvbox&langs_count=50)
 
 ## Technologies I Use
 
