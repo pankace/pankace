@@ -18,3 +18,6 @@
 - FPAA
 - Servers
 - circuit design
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankace&cout_private&theme=gruvbox&langs_count=50)
