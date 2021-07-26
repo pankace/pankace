@@ -20,4 +20,4 @@
 - circuit design
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankace&cout_private&theme=radical&layout=compact&langs_count=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankace&cout_private&theme=radical&layout=compact&langs_count=100)
