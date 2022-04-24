@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm pankace <br></p>
 
-<h1>Really who the hecc would look at my profile :P</h1>
-
 <img src = 'https://github.com/pankace/pankace/blob/main/images%20/pusheen2.jpg' alt = 'Ramen Pusheen1' align='right'/>
 
 <img src = 'https://github.com/pankace/pankace/blob/main/images%20/pusheen3.gif' alt = 'Ramen Pusheen2' align='left'/> 
