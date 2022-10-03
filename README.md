@@ -7,5 +7,5 @@
 - RAMEN
 - FPGAs
 - KEYBOARDS
-- Servers
+- TPU
 - circuit design
