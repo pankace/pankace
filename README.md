@@ -1,6 +1,2 @@
-# Hi there 👋 I'm pankace <br></p>
-
-- RAMEN
-- FPGAs
-- ML (Time series)
-- Data Visualisation
+making fast things faster and charts prettier | breaking thins for fun and profit 
+occasionally committing crimes against unicode
