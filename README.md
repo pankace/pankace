@@ -1,4 +1,4 @@
 making fast things faster and charts prettier | breaking thins for fun and profit 
 
-occasionally committing crimes against unicode
+how can one commit a lot to github when one has a lot of work 
 
